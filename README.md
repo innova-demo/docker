@@ -15,11 +15,11 @@ http://localhost:8080/frontend/
 
 # h2 console
 http://localhost:8080/backend/console
-Setting Name: Generic H2 (Embedded)
-Driver Class: org.h2.Driver
-JDBC URL: jdbc:h2:mem:innova_db
-User Name: username
-Password: secret
+>Setting Name: Generic H2 (Embedded)
+>Driver Class: org.h2.Driver
+>JDBC URL: jdbc:h2:mem:innova_db
+>User Name: username
+>Password: secret
 
 # swagger-ui
 http://localhost:8080/backend/swagger-ui.html
